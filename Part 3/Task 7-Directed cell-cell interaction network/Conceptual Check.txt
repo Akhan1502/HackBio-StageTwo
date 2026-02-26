@@ -1,0 +1,3 @@
+Why directed? Because communication has a sender → receiver direction (who influences whom). A directed edge keeps that biological direction instead of treating interactions as mutual.
+
+What does edge weight mean biologically? The weight represents interaction strength (e.g., stronger signaling/communication likelihood or intensity). Higher weight = stronger/greater communication from the source cell type to the target cell type.

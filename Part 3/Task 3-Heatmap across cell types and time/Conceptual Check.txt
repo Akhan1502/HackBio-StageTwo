@@ -1,0 +1,2 @@
+Why cluster genes but not time?
+We cluster genes to group similar expression patterns (co-regulated modules), but we don’t cluster columns because the time-course order is meaningful—clustering would shuffle timepoints and break early→late interpretation.

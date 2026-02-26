@@ -1,0 +1,21 @@
+This bubble plot shows the relationship between mRNA stability (half-life) and transcription rate (alpha).
+
+The x-axis represents half-life.
+
+The y-axis represents alpha (synthesis rate).
+
+Color indicates biological stage.
+
+Bubble size reflects the number of genes in each kinetic category.
+
+The plot highlights that gene expression is regulated by a balance between transcription and RNA stability. Larger bubbles indicate dominant kinetic regimes, while smaller bubbles represent more specialized regulatory programs.
+
+Biologically, it helps identify whether genes are:
+
+Rapid and transient (high alpha, low half-life),
+
+Stable and sustained (low alpha, high half-life),
+
+Or controlled by combined kinetic mechanisms.
+
+Overall, the figure illustrates how different stages adopt distinct gene regulation strategies.

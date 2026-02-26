@@ -1,0 +1,9 @@
+This figure shows the distribution of new_ratio across different immune cell types using boxplots.
+Each boxplot represents:
+•	The median (center line)
+•	The interquartile range (box)
+•	The whiskers showing data spread
+•	Outliers highlighted in red
+The x-axis displays immune cell types, and the y-axis represents their corresponding new_ratio values. Rotated labels improve readability, and relative scaling ensures consistent comparison across cell populations.
+This visualization enables comparison of variability, central tendency, and extreme values across immune cell types.
+

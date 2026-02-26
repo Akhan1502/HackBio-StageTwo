@@ -1,0 +1,5 @@
+Why no clustering here?
+To preserve the intended biological/curated pathway order and keep timepoints in chronological order, so you can read changes over time directly.
+
+Why a diverging palette?
+Because enrichment values have direction (positive vs negative). Centering at 0 makes increases and decreases equally interpretable.
