@@ -1,0 +1,4 @@
+The file contains code for Part 1 Task 
+Part 1 – Gene Expression Analysis
+a. Heatmap: A clustered heatmap of the top differentially expressed genes between HBR and UHR samples.
+b. Volcano Plot: log2FoldChange vs log10(Padj) from the DEG results.
